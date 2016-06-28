@@ -1,0 +1,18 @@
+package com.company;
+
+/**
+ * Created by lenoubun16 on 6/27/16.
+ */
+public class User {
+    String mSongName;
+    String mArtistName;
+    String mAlbumName;
+
+    public User(String songName, String artistName, String albumName) {
+        mSongName = songName;
+        mAlbumName = artistName;
+        mAlbumName = albumName;
+    }
+
+    public 
+}
